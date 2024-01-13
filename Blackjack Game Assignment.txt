@@ -1,0 +1,25 @@
+
+Question A: What is this line of code doing (in TwentyOneRules class)?
+
+int playerScore = playerResults.Where(x => x < 22).Max();
+
+This line of code is calculating the player's score in the game of Blackjack. Here's a breakdown:
+
+- playerResults: This appears to be a collection (perhaps a list or array) containing the results of different hands or rounds played by the player.
+- .Where(x => x < 22): This filters the results to include only those where the value (x) is less than 22, indicating that the player's hand hasn't exceeded 21 points (which would result in a bust in Blackjack).
+- .Max(): This then retrieves the maximum value from the filtered results, which would be the highest score that is still below 22.
+So, playerScore would represent the highest score the player achieved without busting.
+
+
+Question B: What is this block of code doing (in the Main method)?
+
+while (player.isActivelyPlaying && player.Balance > 0)
+{
+    game.Play();
+}
+
+This block of code is implementing a loop that allows the player to continue playing the game as long as two conditions are met:
+
+- player.isActivelyPlaying: This condition checks whether the player has chosen to actively participate in the game. If this is set to false, the loop will exit, and the player won't play further rounds.
+- player.Balance > 0: This condition ensures that the player has enough balance to continue playing. If the player's balance drops to zero or below, the loop will exit, preventing the player from playing further rounds if they can't afford it.
+- Inside the loop, the game.Play(); statement is likely responsible for executing a single round or hand of the Blackjack game.
