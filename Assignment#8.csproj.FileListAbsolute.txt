@@ -1,0 +1,14 @@
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\bin\Debug\net8.0\Assignment#8.exe
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\bin\Debug\net8.0\Assignment#8.deps.json
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\bin\Debug\net8.0\Assignment#8.runtimeconfig.json
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\bin\Debug\net8.0\Assignment#8.dll
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\bin\Debug\net8.0\Assignment#8.pdb
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.AssemblyInfoInputs.cache
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.AssemblyInfo.cs
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.csproj.CoreCompileInputs.cache
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.dll
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\refint\Assignment#8.dll
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.pdb
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\Assignment#8.genruntimeconfig.cache
+C:\Users\rowena\source\repos\Assignment#8\Assignment#8\obj\Debug\net8.0\ref\Assignment#8.dll
